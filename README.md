@@ -1,9 +1,9 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Yassa Hammam</h1>
 
-<!-- Typing Animation -->
+<!-- Typing Animation - Bigger & Blue -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=F2C811&center=true&vCenter=true&repeat=true&width=500&lines=🚀+Data+Analyst" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=800&color=1E90FF&center=true&vCenter=true&width=700&lines=🚀+Data+Analyst" alt="Typing SVG" />
 </p>
 
 ---
@@ -18,23 +18,38 @@
 
 ## 🛠️ Skills & Tools  
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-</p>
+### 🔹 Data Analytics & BI
+<div align="center">
+  <!-- Animated Power BI GIF -->
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/Animated/powerbi.gif" alt="Power BI" width="120" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C%20Programming-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-</p>
+### 🔹 Programming
+<div align="center" style="margin-top:10px;">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+</div>
 
 ---
 
 ## 📫 Contact Me  
 
-- 📧 **yassahammam.business@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/yassa-hammam)  
+<div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassa-hammam)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yassahammam.business@gmail.com)  
+</div>
 
 ---
+
+<div align="center">
+✨ *"Data is the new oil, and I aim to refine it into valuable insights."* ✨  
+</div>
