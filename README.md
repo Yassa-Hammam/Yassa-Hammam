@@ -1,16 +1,41 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Yassa-Hammam/Yassa-Hammam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Yassa Hammam  
 
-Here are some ideas to get you started:
+🎓 I am a student at the **Faculty of Computers and Artificial Intelligence, Helwan University**  
+💡 Passionate about **Data Analysis, Dashboard Design, and Programming**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 🧑‍💻 About Me  
+- 📊 Interested in **Data Analytics & Business Intelligence**  
+- 🛠 Experienced in creating dashboards with **Power BI** (5+ projects including Olist Dataset)  
+- 📈 Currently improving my skills in **SQL Server** and advanced **Dashboard Design**  
+- 💻 Programming knowledge in **C, C++, Java**  
+- 🌐 Learning **Web Development basics** (HTML, CSS, JavaScript)  
+- 🎯 Goal: Become a **professional Data Analyst** and build impactful dashboards  
+
+---
+
+## 🚀 Tools & Technologies  
+
+**Data Analytics & BI**  
+- Power BI, Tableau, SQL Server, Excel  
+
+**Programming Languages**  
+- C, C++, Java, JavaScript, HTML, CSS  
+
+**Other Tools**  
+- Git, VS Code  
+
+---
+
+## 📬 Contact Me  
+- 📧 Email: **yassahammam.business@gmail.com**  
+- 🔗 LinkedIn: [www.linkedin.com/in/yassa-hammam](https://www.linkedin.com/in/yassa-hammam)  
+
+---
+
+⭐️ *Always open to learning, collaborating, and building data-driven solutions.*  
