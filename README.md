@@ -1,6 +1,10 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Yassa Hammam</h1>
-<h3 align="center">🚀 Data Analyst</h3>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=F2C811&center=true&vCenter=true&repeat=true&width=500&lines=🚀+Data+Analyst" alt="Typing SVG" />
+</p>
 
 ---
 
