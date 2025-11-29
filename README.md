@@ -2,28 +2,26 @@
 
 # 👋 Hi, I'm Yassa Hammam  
 
-🎓 Student at the **Faculty of Computers and Artificial Intelligence, Helwan University**  
-💡 Passionate about **Data Analysis, Dashboard Design, and Programming**  
+💡 Passionate about **Dashboard Design and Programming**  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Analyst;Power+BI+%7C+SQL+Server+%7C+Excel;C+%7C+C%2B%2B+%7C+Java+Developer;Always+Learning+New+Skills)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Power+BI+%7C+SQL+Server+%7C+Excel;C+%7C+C%2B%2B+%7C+Java+Developer;Always+Learning+New+Skills)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
 ## 🧑‍💻 About Me  
-- 📊 Focused on **Data Analytics & Business Intelligence**  
 - 🛠 Skilled in **Power BI, Tableau, Excel** for dashboard design  
 - 📈 Improving my expertise in **SQL Server**  
 - 💻 Programming knowledge: **C, C++, Java**  
 - 🌐 Exploring basics of **Web Development** (HTML, CSS, JavaScript)  
-- 🎯 My goal: Become a **Professional Data Analyst** and build impactful dashboards  
+- 🎯 My goal: Become a **Professional in Dashboard Design** and build impactful dashboards  
 
 ---
 
 ## 🚀 Skills & Tools  
 
-### 🔹 Data Analytics & BI  
+### 🔹 Dashboard & BI Tools  
 <div align="center">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" alt="Power BI" />
   &nbsp;&nbsp;
