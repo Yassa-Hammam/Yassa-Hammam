@@ -1,139 +1,144 @@
-<div align="center">
+# Hi, I'm Yassa Hammam 👋
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:1e293b,100:334155&height=280&section=header&text=Yassa%20Hammam&fontSize=60&fontColor=ffffff&fontAlignY=45&desc=Data%20Analyst%20%7C%20Aspiring%20Data%20Engineer&descAlignY=63&descSize=20&descColor=38bdf8&animation=fadeIn"/>
+### Data Analyst | Aspiring Data Engineer
 
-<br>
+Computer Science student passionate about data, analytics, and building scalable data systems. Experienced in data analysis, dashboard development, SQL querying, and data preprocessing through real-world projects and professional training.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Python+%7C+SQL+%7C+Power+BI;Data+Analytics+%26+Visualization;Building+Data+Skills+Every+Day;Future+Data+Engineer;Capital+University+Student"/>
-
-<br><br>
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2k4MnF5d3VwM3Q1Z2hpcWQ3NGR0c3Fud3M0a2VxbG5hdm1iM3N4biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="60%"/>
-
-</div>
+Currently expanding my skills in Data Engineering, databases, ETL workflows, and large-scale data processing.
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
-
-### Yassa Hammam
-
-🎓 Computer Science Student @ Capital University
-
-📊 NTI Certified Data Analyst
-
-🗄️ Aspiring Data Engineer
-
-📍 Giza, Egypt
-
-💡 Passionate about Data Analytics, ETL Pipelines, Databases, and Big Data Systems
-
-🎯 Looking for Internship Opportunities
+* 🎓 Computer Science Student @ Capital University (2024–2028)
+* 📊 NTI Certified Data Analyst
+* 🗄️ Interested in Data Engineering & Data Analytics
+* 📈 Passionate about transforming raw data into actionable insights
+* 🎯 Seeking Internship Opportunities
 
 ---
 
-## ⚡ Tech Stack
+## 🛠️ Tech Stack
 
-<div align="center">
+### Languages
 
-### 📊 Data Analytics
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=python" height="50"/>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+### Data & Analytics
 
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-### 🗄️ Databases
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
+### Databases
 
-### 🔧 Tools
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" height="50"/>
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
-</div>
+### Tools
 
----
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📂 Featured Projects
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-| Project | Tools | Highlights |
-|----------|----------|----------|
-| 🛒 E-Commerce Sales Analysis | Power BI · DAX | 96K+ Customers |
-| 📣 Fitbit Marketing Dashboard | Power BI · DAX | $411K Conversions |
-| ⚡ EV Market Dashboard | Power BI · Tableau | 264 Vehicle Models |
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
 ## 📚 Currently Learning
 
-- ETL Fundamentals
-- Data Warehousing
-- Apache Spark
-- Advanced SQL
-- Big Data Concepts
+* Advanced SQL
+* Database Design
+* ETL Fundamentals
+* Data Warehousing
+* Big Data Concepts
+* Apache Spark Fundamentals
+
+---
+
+## 💼 Experience
+
+### Data Analysis Trainee | National Telecommunication Institute (NTI)
+
+**2025**
+
+* Collected, cleaned, and preprocessed real-world datasets using Excel and Python (Pandas)
+* Performed SQL-based analysis using MySQL
+* Built interactive Power BI dashboards and reports
+* Generated business insights from structured datasets
+* Completed end-to-end analytical workflows from raw data to visualization
+
+---
+
+## 📂 Featured Projects
+
+### 🛒 E-Commerce Sales Analysis
+
+**Tools:** Power BI • Power Query • DAX
+
+* Analyzed 96K+ customers and BRL 13.6M sales
+* Built interactive dashboards and KPIs
+* Evaluated sales performance and delivery efficiency
+* Analyzed regional logistics trends
+
+---
+
+### 📣 Fitbit Marketing Campaign Dashboard
+
+**Tools:** Power BI • DAX
+
+* Analyzed 48K impressions and 4,830 clicks
+* Evaluated campaign effectiveness across channels
+* Built KPI dashboards and drill-through reports
+* Tracked 1,496 conversions worth $411K+
+
+---
+
+### ⚡ Electric Vehicles Market Dashboard
+
+**Tools:** Power BI • Tableau • Excel
+
+* Analyzed 264 electric vehicle models
+* Compared 35+ automotive brands
+* Explored pricing, range, and market trends
+* Built interactive market intelligence dashboards
 
 ---
 
 ## 🏆 Certifications
 
-🏅 NTI Data Analytics Certification
-
-🏅 NVIDIA Deep Learning Institute
+* Data Analytics Certification — National Telecommunication Institute (NTI), 2025
+* Getting Started with Deep Learning — NVIDIA Deep Learning Institute, 2025
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Yassa-Hammam&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yassa-Hammam&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yassa-Hammam&theme=tokyonight&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yassa-Hammam&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yassa-Hammam&layout=compact&theme=tokyonight" height="170"/>
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="center">
-
-<a href="https://linkedin.com/in/yassa-hammam">
-<img src="https://img.shields.io/badge/LinkedIn-Yassa%20Hammam-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:yassahammam.business@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://yassa-hammam.github.io/portfolio">
-<img src="https://img.shields.io/badge/Portfolio-Visit-0ea5e9?style=for-the-badge"/>
-</a>
-
-</p>
+* LinkedIn: https://linkedin.com/in/yassa-hammam
+* Portfolio: https://yassa-hammam.github.io/portfolio
+* GitHub: https://github.com/Yassa-Hammam
+* Email: [yassahammam.business@gmail.com](mailto:yassahammam.business@gmail.com)
 
 ---
 
-<div align="center">
+### 💡 Career Goal
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,50:1e293b,100:0f172a&height=120&section=footer"/>
-
-</div>
+To build a strong career in Data Engineering by developing expertise in databases, ETL pipelines, big data technologies, and scalable data infrastructure while leveraging my analytical background to deliver data-driven solutions.
