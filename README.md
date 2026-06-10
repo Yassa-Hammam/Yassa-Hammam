@@ -163,8 +163,8 @@ Computer Science student passionate about data, analytics, and building scalable
 
 ## 🌐 Connect With Me
 
-* LinkedIn: linkedin.com/in/yassa-hammam
-* Portfolio: yassa-hammam.github.io/portfolio
+* LinkedIn: https://www.linkedin.com/in/yassa-hammam/
+* Portfolio: [yassa-hammam.github.io/portfolio](https://yassa-hammam.github.io/portfolio/)
 * GitHub: github.com/Yassa-Hammam
 * Email: [yassahammam.business@gmail.com](mailto:yassahammam.business@gmail.com)
 
