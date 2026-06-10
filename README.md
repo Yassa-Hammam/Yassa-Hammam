@@ -165,11 +165,4 @@ Computer Science student passionate about data, analytics, and building scalable
 
 * LinkedIn: https://www.linkedin.com/in/yassa-hammam/
 * Portfolio: [yassa-hammam.github.io/portfolio](https://yassa-hammam.github.io/portfolio/)
-* GitHub: github.com/Yassa-Hammam
 * Email: [yassahammam.business@gmail.com](mailto:yassahammam.business@gmail.com)
-
----
-
-## 🎯 Career Goal
-
-To become a Data Engineer capable of designing scalable data pipelines, managing modern data platforms, and transforming raw data into reliable business assets while leveraging strong analytical skills to drive data-driven decision making.
