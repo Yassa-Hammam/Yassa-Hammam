@@ -2,55 +2,71 @@
 
 ### Data Analyst | Aspiring Data Engineer
 
-Computer Science student passionate about data, analytics, and building scalable data systems. Experienced in data analysis, dashboard development, SQL querying, and data preprocessing through real-world projects and professional training.
-
-Currently expanding my skills in Data Engineering, databases, ETL workflows, and large-scale data processing.
+Computer Science student passionate about data, analytics, and building scalable data systems. Skilled in SQL, Power BI, Python, and data preprocessing through professional training and hands-on projects. Currently focused on developing expertise in Data Engineering, ETL pipelines, databases, and big data technologies.
 
 ---
 
-## 🚀 About Me
+## 🚀 Highlights
 
-* 🎓 Computer Science Student @ Capital University (2024–2028)
+* 🎓 Computer Science & Artificial Intelligence Student
 * 📊 NTI Certified Data Analyst
-* 🗄️ Interested in Data Engineering & Data Analytics
-* 📈 Passionate about transforming raw data into actionable insights
-* 🎯 Seeking Internship Opportunities
+* 🏆 GPA: 3.15 / 4.0
+* 📈 Built multiple end-to-end analytics projects
+* 🗄️ Strong foundation in SQL, Python, Power BI, and Data Visualization
+* 🎯 Actively seeking Data Analytics and Data Engineering Internship opportunities
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 About Me
 
-### Languages
+* 🎓 Bachelor's Degree in Computer Science & Artificial Intelligence
+* 📍 Based in Egypt
+* 📊 Passionate about Data Analytics and Data Engineering
+* 🧹 Experienced in data cleaning, preprocessing, visualization, and reporting
+* 🗃️ Interested in databases, ETL workflows, and scalable data systems
+* 📚 Continuously learning modern data technologies and best practices
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+---
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+## 🎓 Education
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+### Capital University
 
-### Data & Analytics
+**Bachelor of Science (B.S.) in Computer Science & Artificial Intelligence**
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+2024 – 2028
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+**GPA:** 3.15 / 4.0
 
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+---
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+## 🛠️ Technical Skills
+
+### Programming Languages
+
+* Python
+* Java
+* C
+
+### Data Analytics
+
+* Power BI
+* Tableau
+* Microsoft Excel
+* Power Query
+* DAX
+* Pandas
 
 ### Databases
 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+* SQL
+* MySQL
 
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+### Tools & Technologies
 
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+* Git
+* GitHub
+* VS Code
 
 ---
 
@@ -62,6 +78,7 @@ Currently expanding my skills in Data Engineering, databases, ETL workflows, and
 * Data Warehousing
 * Big Data Concepts
 * Apache Spark Fundamentals
+* Data Engineering Fundamentals
 
 ---
 
@@ -71,11 +88,11 @@ Currently expanding my skills in Data Engineering, databases, ETL workflows, and
 
 **2025**
 
-* Collected, cleaned, and preprocessed real-world datasets using Excel and Python (Pandas)
-* Performed SQL-based analysis using MySQL
-* Built interactive Power BI dashboards and reports
-* Generated business insights from structured datasets
-* Completed end-to-end analytical workflows from raw data to visualization
+* Completed an intensive Data Analytics training program focused on real-world business datasets.
+* Collected, cleaned, transformed, and analyzed structured datasets using Excel, SQL, and Python.
+* Performed exploratory data analysis and generated actionable business insights.
+* Built interactive dashboards and reports using Power BI.
+* Applied end-to-end analytical workflows from data preparation to visualization and reporting.
 
 ---
 
@@ -83,45 +100,68 @@ Currently expanding my skills in Data Engineering, databases, ETL workflows, and
 
 ### 🛒 E-Commerce Sales Analysis
 
-**Tools:** Power BI • Power Query • DAX
+**Tools:** Power BI, Power Query, DAX
 
-* Analyzed 96K+ customers and BRL 13.6M sales
-* Built interactive dashboards and KPIs
-* Evaluated sales performance and delivery efficiency
-* Analyzed regional logistics trends
+* Analyzed data from 96K+ customers.
+* Evaluated sales performance across regions and product categories.
+* Built KPI dashboards and interactive visualizations.
+* Analyzed logistics and delivery performance.
+* Generated actionable business insights from BRL 13.6M in sales data.
 
 ---
 
 ### 📣 Fitbit Marketing Campaign Dashboard
 
-**Tools:** Power BI • DAX
+**Tools:** Power BI, DAX
 
-* Analyzed 48K impressions and 4,830 clicks
-* Evaluated campaign effectiveness across channels
-* Built KPI dashboards and drill-through reports
-* Tracked 1,496 conversions worth $411K+
+* Analyzed 48K impressions and 4,830 clicks.
+* Evaluated campaign effectiveness across marketing channels.
+* Built KPI dashboards and drill-through reports.
+* Tracked 1,496 conversions generating over $411K in value.
+* Identified high-performing marketing segments.
 
 ---
 
 ### ⚡ Electric Vehicles Market Dashboard
 
-**Tools:** Power BI • Tableau • Excel
+**Tools:** Power BI, Tableau, Excel
 
-* Analyzed 264 electric vehicle models
-* Compared 35+ automotive brands
-* Explored pricing, range, and market trends
-* Built interactive market intelligence dashboards
+* Analyzed 264 electric vehicle models.
+* Compared performance across 35+ automotive brands.
+* Investigated pricing, range, and market trends.
+* Built interactive dashboards for market intelligence.
+* Presented insights through data storytelling and visualization.
 
 ---
 
 ## 🏆 Certifications
 
-* Data Analytics Certification — National Telecommunication Institute (NTI), 2025
-* Getting Started with Deep Learning — NVIDIA Deep Learning Institute, 2025
+### National Telecommunication Institute (NTI)
+
+**Data Analytics Certification**
+2025
+
+### NVIDIA Deep Learning Institute
+
+**Getting Started with Deep Learning**
+2025
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Career Interests
+
+* Data Engineering
+* Data Analytics
+* Business Intelligence
+* Database Systems
+* Data Warehousing
+* Big Data Technologies
+* ETL Development
+* Cloud Data Platforms
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yassa-Hammam&show_icons=true&theme=tokyonight" height="170"/>
@@ -132,13 +172,13 @@ Currently expanding my skills in Data Engineering, databases, ETL workflows, and
 
 ## 🌐 Connect With Me
 
-* LinkedIn: https://linkedin.com/in/yassa-hammam
-* Portfolio: https://yassa-hammam.github.io/portfolio
-* GitHub: https://github.com/Yassa-Hammam
+* LinkedIn: linkedin.com/in/yassa-hammam
+* Portfolio: yassa-hammam.github.io/portfolio
+* GitHub: github.com/Yassa-Hammam
 * Email: [yassahammam.business@gmail.com](mailto:yassahammam.business@gmail.com)
 
 ---
 
-### 💡 Career Goal
+## 🎯 Career Goal
 
-To build a strong career in Data Engineering by developing expertise in databases, ETL pipelines, big data technologies, and scalable data infrastructure while leveraging my analytical background to deliver data-driven solutions.
+To become a Data Engineer capable of designing scalable data pipelines, managing modern data platforms, and transforming raw data into reliable business assets while leveraging strong analytical skills to drive data-driven decision making.
