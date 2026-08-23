@@ -1,98 +1,121 @@
 # Hi, I'm Yassa Hammam 👋
 
-### Data Analyst | Aspiring Data Engineer
+### Computer Science & AI Student | Aspiring Data Engineer
 
-Computer Science student passionate about data, analytics, and building scalable data systems. Skilled in SQL, Power BI, Python, and data preprocessing through professional training and hands-on projects. Currently focused on developing expertise in Data Engineering, ETL pipelines, databases, and big data technologies.
+Computer Science and Artificial Intelligence student building a strong foundation in **Python, SQL, databases, and data engineering**.
 
----
-
-## 🚀 Highlights
-
-* 🎓 Computer Science & Artificial Intelligence Student
-* 📊 NTI Certified Data Analyst
-* 🏆 GPA: 3.15 / 4.0
-* 📈 Built multiple end-to-end analytics projects
-* 🗄️ Strong foundation in SQL, Python, Power BI, and Data Visualization
-* 🎯 Actively seeking Data Analytics and Data Engineering Internship opportunities
+My current focus is moving from data analytics toward **Data Engineering**, with emphasis on data processing, databases, ETL pipelines, and scalable data systems.
 
 ---
 
-## 👨‍💻 About Me
+## 🎯 Current Focus
 
-* 🎓 Bachelor's Degree in Computer Science & Artificial Intelligence
-* 📍 Based in Egypt
-* 📊 Passionate about Data Analytics and Data Engineering
-* 🧹 Experienced in data cleaning, preprocessing, visualization, and reporting
-* 🗃️ Interested in databases, ETL workflows, and scalable data systems
-* 📚 Continuously learning modern data technologies and best practices
+* 🐍 Strengthening Python programming and problem-solving
+* 🗄️ Building strong SQL and database fundamentals
+* 🔄 Learning ETL and data pipeline concepts
+* 🏗️ Studying Data Engineering through the IBM Data Engineering Professional Certificate
+* 📊 Applying data analysis experience as a foundation for Data Engineering
+* 🚀 Building projects that progressively move from analytics toward data processing and engineering
 
 ---
 
 ## 🎓 Education
 
-### Capital University
+### Helwan University Cairo
 
-**Bachelor of Science (B.S.) in Computer Science & Artificial Intelligence**
+**Bachelor of Science (B.S.) — Computer Science & Artificial Intelligence**
 
-2024 – 2028
+**2024 – 2028**
 
-**GPA:** 3.15 / 4.0
+**GPA:** 3.02 / 4.0
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Programming Languages
+### Programming
 
 * Python
 * Java
 * C
 
-### Data Analytics
+### Data & Analytics
 
+* SQL
+* MySQL
 * Power BI
-* Tableau
 * Microsoft Excel
 * Power Query
 * DAX
 * Pandas
 
-### Databases
-
-* SQL
-* MySQL
-
-### Tools & Technologies
+### Tools
 
 * Git
 * GitHub
 * VS Code
 
+### Data Engineering Foundations
+
+* Relational Databases
+* Data Cleaning & Transformation
+* ETL Concepts
+* Data Pipelines
+* Data Warehousing Fundamentals
+* Big Data Fundamentals
+
 ---
 
-## 📚 Currently Learning
+## 📚 Learning Journey
 
-* Advanced SQL
-* Database Design
-* ETL Fundamentals
-* Data Warehousing
-* Big Data Concepts
-* Apache Spark Fundamentals
+### Python
+
+Currently strengthening Python from fundamentals toward practical problem solving.
+
+Focus areas include:
+
+* Data Structures
+* Functions
+* File Handling
+* Modules
+* Exception Handling
+* Problem Solving
+
+Practicing programming problems through **HackerRank** alongside structured Python study.
+
+### Data Engineering
+
+Currently studying the **IBM Data Engineering Professional Certificate**, covering areas including:
+
 * Data Engineering Fundamentals
+* Python for Data Engineering
+* Relational Databases
+* SQL
+* Linux & Shell Scripting
+* ETL & Data Pipelines
+* Data Warehousing
+* NoSQL
+* Hadoop & Spark
+* Data Engineering Projects
 
 ---
 
-## 💼 Experience
+## 💼 Training & Experience
 
-### Data Analysis Trainee | National Telecommunication Institute (NTI)
+### Data Analysis Trainee — National Telecommunication Institute (NTI)
 
 **2025**
 
-* Completed an intensive Data Analytics training program focused on real-world business datasets.
-* Collected, cleaned, transformed, and analyzed structured datasets using Excel, SQL, and Python.
-* Performed exploratory data analysis and generated actionable business insights.
-* Built interactive dashboards and reports using Power BI.
-* Applied end-to-end analytical workflows from data preparation to visualization and reporting.
+Completed professional Data Analytics training involving real-world datasets and end-to-end analytical workflows.
+
+Key areas:
+
+* Data cleaning and preprocessing
+* Exploratory data analysis
+* SQL-based data analysis
+* Python and Pandas
+* Power BI dashboards
+* Business insights and reporting
 
 ---
 
@@ -100,37 +123,37 @@ Computer Science student passionate about data, analytics, and building scalable
 
 ### 🛒 E-Commerce Sales Analysis
 
-**Tools:** Power BI, Power Query, DAX
+**Power BI · Power Query · DAX**
 
-* Analyzed data from 96K+ customers.
+* Analyzed sales data covering **96K+ customers**.
 * Evaluated sales performance across regions and product categories.
-* Built KPI dashboards and interactive visualizations.
+* Built interactive KPI dashboards.
 * Analyzed logistics and delivery performance.
-* Generated actionable business insights from BRL 13.6M in sales data.
+* Extracted business insights from **BRL 13.6M** in sales data.
 
 ---
 
 ### 📣 Fitbit Marketing Campaign Dashboard
 
-**Tools:** Power BI, DAX
+**Power BI · DAX**
 
-* Analyzed 48K impressions and 4,830 clicks.
-* Evaluated campaign effectiveness across marketing channels.
-* Built KPI dashboards and drill-through reports.
-* Tracked 1,496 conversions generating over $411K in value.
+* Analyzed **48K impressions** and **4,830 clicks**.
+* Evaluated campaign performance across marketing channels.
+* Built interactive KPI dashboards and drill-through reports.
+* Analyzed **1,496 conversions** generating over **$411K** in value.
 * Identified high-performing marketing segments.
 
 ---
 
-### ⚡ Electric Vehicles Market Dashboard
+### ⚡ Electric Vehicles Market Analysis
 
-**Tools:** Power BI, Tableau, Excel
+**Power BI · Tableau · Excel**
 
-* Analyzed 264 electric vehicle models.
-* Compared performance across 35+ automotive brands.
+* Analyzed **264 electric vehicle models**.
+* Compared performance across **35+ automotive brands**.
 * Investigated pricing, range, and market trends.
-* Built interactive dashboards for market intelligence.
-* Presented insights through data storytelling and visualization.
+* Built interactive dashboards for market analysis.
+* Presented findings through data visualization and storytelling.
 
 ---
 
@@ -138,31 +161,36 @@ Computer Science student passionate about data, analytics, and building scalable
 
 ### National Telecommunication Institute (NTI)
 
-**Data Analytics Certification**
-2025
+**Data Analytics Certification** — 2025
 
 ### NVIDIA Deep Learning Institute
 
-**Getting Started with Deep Learning**
-2025
+**Getting Started with Deep Learning** — 2025
+
+### Python
+
+Currently building Python proficiency through structured learning, practical exercises, and problem-solving practice.
 
 ---
 
-## 📈 Career Interests
+## 🎯 Career Direction
+
+My current career direction is focused on **Data Engineering**, while using my existing Data Analytics background as a foundation.
+
+Areas of interest:
 
 * Data Engineering
-* Data Analytics
-* Business Intelligence
-* Database Systems
+* ETL & Data Pipelines
+* SQL & Database Systems
 * Data Warehousing
 * Big Data Technologies
-* ETL Development
 * Cloud Data Platforms
+* Data Processing
 
 ---
 
 ## 🌐 Connect With Me
 
-* LinkedIn: https://www.linkedin.com/in/yassa-hammam/
-* Portfolio: [yassa-hammam.github.io/portfolio](https://yassa-hammam.github.io/portfolio/)
-* Email: [yassahammam.business@gmail.com](mailto:yassahammam.business@gmail.com)
+* **LinkedIn:** https://www.linkedin.com/in/yassa-hammam/
+* **Portfolio:** https://yassa-hammam.github.io/portfolio/
+* **Email:** [yassahammam.business@gmail.com](mailto:yassahammam.business@gmail.com)
